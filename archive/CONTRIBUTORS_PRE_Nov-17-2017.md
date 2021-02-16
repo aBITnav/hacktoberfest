@@ -43,6 +43,11 @@
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
+#### Name: [ANurag jha](https://github.com/anuragjha8)
+- Place: India
+- Bio: first year year Computer Science Student, in love with NYC <3
+- GitHub: [Anurag Jha](https://github.com/anuragjha8)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
